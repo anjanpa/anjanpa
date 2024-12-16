@@ -22,7 +22,6 @@ I'm passionate about solving problems using **Python** and applying my knowledge
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="anjan" height="40" width="40" />
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="anjan" height="40" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="anjan" height="40" width="40" />
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="anjan" height="40" width="40" />
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="anjan" height="40" width="40" />
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="anjan" height="40" width="40" />
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="anjan" height="40" width="40" />
