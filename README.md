@@ -31,5 +31,3 @@ I'm passionate about solving problems using **Python** and applying my knowledge
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg" alt="anjan" height="40" width="40" />
 
 </p>
-
-Make it more professional 
